@@ -17,7 +17,7 @@ Before using the app, you need to obtain an API key from PhotoRoom. Follow these
 ## Usage
 
 1. Clone the repository to your local machine and move to the app directory.
-2. npm run dev will have the program up and running.
+2. npm install and npm run dev will have the program up and running.
 3. Fill in the following information:
 
    - **Prompt:** Enter a descriptive prompt to guide the background change process.
