@@ -1,0 +1,17 @@
+*{
+  margin:0.5em;
+  
+}
+.container-fluid{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+textarea{
+  width:80%;
+}
+button{
+  width:80%;
+}
